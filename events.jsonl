@@ -1,0 +1,500 @@
+{"type": "PRODUCT_VIEW", "user_id": "USR-0419", "product_id": "ELE-050", "product_name": "Portable HDD", "category": "Electronics", "price": 368.21, "timestamp": 1782329997}
+{"type": "ORDER_PLACED", "user_id": "USR-0159", "product_id": "HOM-012", "product_name": "Countertop Blender", "category": "Home & Kitchen", "price": 211.58, "timestamp": 1782329997}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0244", "product_id": "OFF-046", "product_name": "Scientific Calculator", "category": "Office & Stationery", "price": 1177.0, "timestamp": 1782329997}
+{"type": "ORDER_PLACED", "user_id": "USR-0104", "product_id": "FAS-006", "product_name": "Leather Jacket", "category": "Fashion", "price": 783.19, "timestamp": 1782329997}
+{"type": "ORDER_PLACED", "user_id": "USR-0497", "product_id": "ELE-006", "product_name": "Smartphone X", "category": "Electronics", "price": 681.64, "timestamp": 1782329997}
+{"type": "ORDER_PLACED", "user_id": "USR-0398", "product_id": "ELE-006", "product_name": "Smartphone X", "category": "Electronics", "price": 681.64, "timestamp": 1782329997}
+{"type": "ADD_TO_CART", "user_id": "USR-0369", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782329997}
+{"type": "ORDER_PLACED", "user_id": "USR-0193", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782329997}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0042", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782329997}
+{"type": "ORDER_PLACED", "user_id": "USR-0253", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782329997}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0095", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782329997}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0317", "product_id": "BOO-009", "product_name": "Self-Help Leadership", "category": "Books", "price": 371.71, "timestamp": 1782329997}
+{"type": "ADD_TO_CART", "user_id": "USR-0483", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782329997}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0265", "product_id": "BOO-028", "product_name": "Graphic Novel", "category": "Books", "price": 774.77, "timestamp": 1782329997}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0171", "product_id": "FAS-004", "product_name": "Slip-On Shoes", "category": "Fashion", "price": 1312.79, "timestamp": 1782329997}
+{"type": "ORDER_PLACED", "user_id": "USR-0103", "product_id": "ELE-034", "product_name": "Soundbar", "category": "Electronics", "price": 240.89, "timestamp": 1782329998}
+{"type": "ADD_TO_CART", "user_id": "USR-0419", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782329998}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0341", "product_id": "ELE-007", "product_name": "Smartphone Pro", "category": "Electronics", "price": 1340.44, "timestamp": 1782329998}
+{"type": "ORDER_PLACED", "user_id": "USR-0168", "product_id": "ELE-012", "product_name": "Noise-Cancelling Headphones", "category": "Electronics", "price": 1427.35, "timestamp": 1782329998}
+{"type": "ADD_TO_CART", "user_id": "USR-0377", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782329998}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0268", "product_id": "FAS-001", "product_name": "Running Sneakers", "category": "Fashion", "price": 333.49, "timestamp": 1782329998}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0260", "product_id": "ELE-010", "product_name": "Foldable Phone", "category": "Electronics", "price": 514.08, "timestamp": 1782329998}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0384", "product_id": "ELE-007", "product_name": "Smartphone Pro", "category": "Electronics", "price": 1340.44, "timestamp": 1782329998}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0181", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782329998}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0488", "product_id": "ELE-021", "product_name": "Smartwatch Series 1", "category": "Electronics", "price": 104.02, "timestamp": 1782329998}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0094", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782329998}
+{"type": "ADD_TO_CART", "user_id": "USR-0168", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782329998}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0367", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782329998}
+{"type": "ORDER_PLACED", "user_id": "USR-0029", "product_id": "ELE-013", "product_name": "Gaming Headset", "category": "Electronics", "price": 537.79, "timestamp": 1782329998}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0496", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782329998}
+{"type": "ORDER_PLACED", "user_id": "USR-0042", "product_id": "BAB-029", "product_name": "Nappy Rash Cream", "category": "Baby & Kids", "price": 1293.11, "timestamp": 1782329998}
+{"type": "ADD_TO_CART", "user_id": "USR-0205", "product_id": "ELE-032", "product_name": "Smart Speaker", "category": "Electronics", "price": 184.83, "timestamp": 1782329998}
+{"type": "ADD_TO_CART", "user_id": "USR-0187", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782329998}
+{"type": "ORDER_PLACED", "user_id": "USR-0027", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782329998}
+{"type": "ORDER_PLACED", "user_id": "USR-0045", "product_id": "ELE-007", "product_name": "Smartphone Pro", "category": "Electronics", "price": 1340.44, "timestamp": 1782329998}
+{"type": "ORDER_PLACED", "user_id": "USR-0274", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782329999}
+{"type": "SEARCH", "user_id": "USR-0339", "product_id": "BEA-007", "product_name": "Retinol Serum", "category": "Beauty & Personal Care", "price": 396.42, "timestamp": 1782329999}
+{"type": "SEARCH", "user_id": "USR-0465", "product_id": "ELE-020", "product_name": "E-Reader", "category": "Electronics", "price": 801.38, "timestamp": 1782329999}
+{"type": "ADD_TO_CART", "user_id": "USR-0172", "product_id": "ELE-018", "product_name": "Drawing Tablet", "category": "Electronics", "price": 1486.43, "timestamp": 1782329999}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0063", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782329999}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0006", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782329999}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0334", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782329999}
+{"type": "ADD_TO_CART", "user_id": "USR-0409", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782329999}
+{"type": "ORDER_PLACED", "user_id": "USR-0158", "product_id": "FAS-018", "product_name": "Polo Shirt", "category": "Fashion", "price": 1024.09, "timestamp": 1782329999}
+{"type": "ADD_TO_CART", "user_id": "USR-0214", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782329999}
+{"type": "SEARCH", "user_id": "USR-0354", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782329999}
+{"type": "ORDER_PLACED", "user_id": "USR-0183", "product_id": "ELE-007", "product_name": "Smartphone Pro", "category": "Electronics", "price": 1340.44, "timestamp": 1782329999}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0065", "product_id": "ELE-017", "product_name": "Tablet 12in", "category": "Electronics", "price": 656.28, "timestamp": 1782329999}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0409", "product_id": "FAS-033", "product_name": "Round Sunglasses", "category": "Fashion", "price": 331.07, "timestamp": 1782329999}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0115", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782329999}
+{"type": "RETURN", "user_id": "USR-0090", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782329999}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0499", "product_id": "ELE-007", "product_name": "Smartphone Pro", "category": "Electronics", "price": 1340.44, "timestamp": 1782329999}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0284", "product_id": "ELE-012", "product_name": "Noise-Cancelling Headphones", "category": "Electronics", "price": 1427.35, "timestamp": 1782329999}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0164", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782329999}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0331", "product_id": "ELE-008", "product_name": "Budget Phone", "category": "Electronics", "price": 184.87, "timestamp": 1782329999}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0489", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330000}
+{"type": "ORDER_PLACED", "user_id": "USR-0240", "product_id": "ELE-025", "product_name": "Kids Smartwatch", "category": "Electronics", "price": 945.77, "timestamp": 1782330000}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0108", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330000}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0391", "product_id": "ELE-031", "product_name": "Bluetooth Speaker", "category": "Electronics", "price": 276.33, "timestamp": 1782330000}
+{"type": "ADD_TO_CART", "user_id": "USR-0228", "product_id": "BOO-039", "product_name": "Economics 101", "category": "Books", "price": 72.32, "timestamp": 1782330000}
+{"type": "ORDER_PLACED", "user_id": "USR-0450", "product_id": "ELE-037", "product_name": "Gaming Monitor", "category": "Electronics", "price": 842.57, "timestamp": 1782330000}
+{"type": "RETURN", "user_id": "USR-0063", "product_id": "FAS-027", "product_name": "Leather Handbag", "category": "Fashion", "price": 1491.58, "timestamp": 1782330000}
+{"type": "ADD_TO_CART", "user_id": "USR-0020", "product_id": "ELE-048", "product_name": "Network Switch", "category": "Electronics", "price": 47.98, "timestamp": 1782330000}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0446", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330000}
+{"type": "ADD_TO_CART", "user_id": "USR-0108", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330000}
+{"type": "SEARCH", "user_id": "USR-0480", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330000}
+{"type": "ORDER_PLACED", "user_id": "USR-0336", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330000}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0165", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330000}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0426", "product_id": "ELE-008", "product_name": "Budget Phone", "category": "Electronics", "price": 184.87, "timestamp": 1782330000}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0380", "product_id": "GRO-012", "product_name": "Milk Chocolate Bar", "category": "Groceries & Gourmet", "price": 1042.8, "timestamp": 1782330000}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0035", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330000}
+{"type": "ORDER_PLACED", "user_id": "USR-0097", "product_id": "ELE-008", "product_name": "Budget Phone", "category": "Electronics", "price": 184.87, "timestamp": 1782330000}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0319", "product_id": "ELE-035", "product_name": "Home Theatre", "category": "Electronics", "price": 228.59, "timestamp": 1782330000}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0224", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330000}
+{"type": "ADD_TO_CART", "user_id": "USR-0395", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330000}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0323", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330001}
+{"type": "ADD_TO_CART", "user_id": "USR-0313", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330001}
+{"type": "ORDER_PLACED", "user_id": "USR-0147", "product_id": "ELE-010", "product_name": "Foldable Phone", "category": "Electronics", "price": 514.08, "timestamp": 1782330001}
+{"type": "SEARCH", "user_id": "USR-0471", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330001}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0180", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330001}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0237", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330001}
+{"type": "ADD_TO_CART", "user_id": "USR-0443", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330001}
+{"type": "ORDER_PLACED", "user_id": "USR-0136", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330001}
+{"type": "ORDER_PLACED", "user_id": "USR-0126", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330001}
+{"type": "ADD_TO_CART", "user_id": "USR-0451", "product_id": "ELE-022", "product_name": "Smartwatch Series 2", "category": "Electronics", "price": 732.48, "timestamp": 1782330001}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0483", "product_id": "BAB-049", "product_name": "Baby Socks Set", "category": "Baby & Kids", "price": 917.98, "timestamp": 1782330001}
+{"type": "ORDER_PLACED", "user_id": "USR-0408", "product_id": "HEA-010", "product_name": "Krill Oil", "category": "Health & Wellness", "price": 675.43, "timestamp": 1782330001}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0234", "product_id": "ELE-024", "product_name": "GPS Watch", "category": "Electronics", "price": 188.07, "timestamp": 1782330001}
+{"type": "ORDER_PLACED", "user_id": "USR-0064", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330001}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0418", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330001}
+{"type": "ORDER_PLACED", "user_id": "USR-0414", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330001}
+{"type": "RETURN", "user_id": "USR-0489", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330001}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0190", "product_id": "ELE-038", "product_name": "Ultrawide Monitor", "category": "Electronics", "price": 687.6, "timestamp": 1782330001}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0441", "product_id": "ELE-008", "product_name": "Budget Phone", "category": "Electronics", "price": 184.87, "timestamp": 1782330001}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0273", "product_id": "ELE-009", "product_name": "Flagship Phone", "category": "Electronics", "price": 190.84, "timestamp": 1782330001}
+{"type": "ORDER_PLACED", "user_id": "USR-0174", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330002}
+{"type": "ADD_TO_CART", "user_id": "USR-0122", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330002}
+{"type": "ORDER_PLACED", "user_id": "USR-0086", "product_id": "ELE-021", "product_name": "Smartwatch Series 1", "category": "Electronics", "price": 104.02, "timestamp": 1782330002}
+{"type": "ORDER_PLACED", "user_id": "USR-0369", "product_id": "HOM-010", "product_name": "Smart Bulb", "category": "Home & Kitchen", "price": 702.08, "timestamp": 1782330002}
+{"type": "ADD_TO_CART", "user_id": "USR-0239", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330002}
+{"type": "ADD_TO_CART", "user_id": "USR-0295", "product_id": "OFF-050", "product_name": "Compass Geometry Set", "category": "Office & Stationery", "price": 876.6, "timestamp": 1782330002}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0059", "product_id": "FAS-031", "product_name": "Aviator Sunglasses", "category": "Fashion", "price": 433.84, "timestamp": 1782330002}
+{"type": "ORDER_PLACED", "user_id": "USR-0318", "product_id": "ELE-008", "product_name": "Budget Phone", "category": "Electronics", "price": 184.87, "timestamp": 1782330002}
+{"type": "ORDER_PLACED", "user_id": "USR-0374", "product_id": "ELE-050", "product_name": "Portable HDD", "category": "Electronics", "price": 368.21, "timestamp": 1782330002}
+{"type": "ADD_TO_CART", "user_id": "USR-0312", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330002}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0442", "product_id": "ELE-011", "product_name": "Wireless Headphones", "category": "Electronics", "price": 953.94, "timestamp": 1782330002}
+{"type": "ORDER_PLACED", "user_id": "USR-0356", "product_id": "ELE-007", "product_name": "Smartphone Pro", "category": "Electronics", "price": 1340.44, "timestamp": 1782330002}
+{"type": "ADD_TO_CART", "user_id": "USR-0292", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330002}
+{"type": "ORDER_PLACED", "user_id": "USR-0016", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330002}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0229", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330002}
+{"type": "ORDER_PLACED", "user_id": "USR-0178", "product_id": "GRO-034", "product_name": "Soba Noodles", "category": "Groceries & Gourmet", "price": 1335.57, "timestamp": 1782330002}
+{"type": "RETURN", "user_id": "USR-0251", "product_id": "FAS-003", "product_name": "High-Top Sneakers", "category": "Fashion", "price": 1186.5, "timestamp": 1782330002}
+{"type": "ADD_TO_CART", "user_id": "USR-0265", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330002}
+{"type": "SEARCH", "user_id": "USR-0002", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330002}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0401", "product_id": "FAS-036", "product_name": "Analog Watch", "category": "Fashion", "price": 28.73, "timestamp": 1782330003}
+{"type": "ADD_TO_CART", "user_id": "USR-0170", "product_id": "SPO-007", "product_name": "Dumbbell 10kg", "category": "Sports & Fitness", "price": 1111.09, "timestamp": 1782330003}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0467", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330003}
+{"type": "SEARCH", "user_id": "USR-0015", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330003}
+{"type": "ORDER_PLACED", "user_id": "USR-0191", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330003}
+{"type": "SEARCH", "user_id": "USR-0427", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330003}
+{"type": "RETURN", "user_id": "USR-0455", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330003}
+{"type": "ADD_TO_CART", "user_id": "USR-0291", "product_id": "TOY-009", "product_name": "Doll Fashion", "category": "Toys & Games", "price": 926.71, "timestamp": 1782330003}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0285", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330003}
+{"type": "ADD_TO_CART", "user_id": "USR-0002", "product_id": "ELE-009", "product_name": "Flagship Phone", "category": "Electronics", "price": 190.84, "timestamp": 1782330003}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0226", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330003}
+{"type": "ORDER_PLACED", "user_id": "USR-0203", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330003}
+{"type": "ORDER_PLACED", "user_id": "USR-0320", "product_id": "ELE-032", "product_name": "Smart Speaker", "category": "Electronics", "price": 184.83, "timestamp": 1782330003}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0193", "product_id": "FAS-025", "product_name": "Party Dress", "category": "Fashion", "price": 1433.98, "timestamp": 1782330003}
+{"type": "SEARCH", "user_id": "USR-0489", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330003}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0117", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330003}
+{"type": "ADD_TO_CART", "user_id": "USR-0090", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330003}
+{"type": "ADD_TO_CART", "user_id": "USR-0106", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330003}
+{"type": "ORDER_PLACED", "user_id": "USR-0050", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330003}
+{"type": "ORDER_PLACED", "user_id": "USR-0456", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782330003}
+{"type": "SEARCH", "user_id": "USR-0445", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330004}
+{"type": "ORDER_PLACED", "user_id": "USR-0069", "product_id": "ELE-009", "product_name": "Flagship Phone", "category": "Electronics", "price": 190.84, "timestamp": 1782330004}
+{"type": "RETURN", "user_id": "USR-0292", "product_id": "ELE-006", "product_name": "Smartphone X", "category": "Electronics", "price": 681.64, "timestamp": 1782330004}
+{"type": "ORDER_PLACED", "user_id": "USR-0369", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330004}
+{"type": "ADD_TO_CART", "user_id": "USR-0118", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330004}
+{"type": "ADD_TO_CART", "user_id": "USR-0316", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330004}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0104", "product_id": "ELE-008", "product_name": "Budget Phone", "category": "Electronics", "price": 184.87, "timestamp": 1782330004}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0114", "product_id": "ELE-007", "product_name": "Smartphone Pro", "category": "Electronics", "price": 1340.44, "timestamp": 1782330004}
+{"type": "ORDER_PLACED", "user_id": "USR-0484", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330004}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0404", "product_id": "FAS-046", "product_name": "Leather Belt", "category": "Fashion", "price": 1267.01, "timestamp": 1782330004}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0227", "product_id": "ELE-017", "product_name": "Tablet 12in", "category": "Electronics", "price": 656.28, "timestamp": 1782330004}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0376", "product_id": "ELE-020", "product_name": "E-Reader", "category": "Electronics", "price": 801.38, "timestamp": 1782330004}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0129", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330004}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0479", "product_id": "BEA-041", "product_name": "Body Lotion", "category": "Beauty & Personal Care", "price": 401.81, "timestamp": 1782330004}
+{"type": "ADD_TO_CART", "user_id": "USR-0159", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330004}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0130", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330004}
+{"type": "ORDER_PLACED", "user_id": "USR-0169", "product_id": "BOO-013", "product_name": "BBQ Cookbook", "category": "Books", "price": 327.64, "timestamp": 1782330004}
+{"type": "ADD_TO_CART", "user_id": "USR-0275", "product_id": "HOM-009", "product_name": "LED Strip", "category": "Home & Kitchen", "price": 1430.86, "timestamp": 1782330004}
+{"type": "ORDER_PLACED", "user_id": "USR-0153", "product_id": "BOO-004", "product_name": "Sci-Fi Classic", "category": "Books", "price": 1052.47, "timestamp": 1782330004}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0250", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330004}
+{"type": "ADD_TO_CART", "user_id": "USR-0422", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330005}
+{"type": "ADD_TO_CART", "user_id": "USR-0354", "product_id": "HOM-048", "product_name": "Wall Clock", "category": "Home & Kitchen", "price": 498.5, "timestamp": 1782330005}
+{"type": "SEARCH", "user_id": "USR-0207", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330005}
+{"type": "ORDER_PLACED", "user_id": "USR-0379", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330005}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0023", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330005}
+{"type": "ADD_TO_CART", "user_id": "USR-0415", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330005}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0435", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782330005}
+{"type": "SEARCH", "user_id": "USR-0266", "product_id": "SPO-041", "product_name": "Gym Bag", "category": "Sports & Fitness", "price": 1128.06, "timestamp": 1782330005}
+{"type": "ORDER_PLACED", "user_id": "USR-0275", "product_id": "ELE-008", "product_name": "Budget Phone", "category": "Electronics", "price": 184.87, "timestamp": 1782330005}
+{"type": "ORDER_PLACED", "user_id": "USR-0375", "product_id": "ELE-017", "product_name": "Tablet 12in", "category": "Electronics", "price": 656.28, "timestamp": 1782330005}
+{"type": "RETURN", "user_id": "USR-0317", "product_id": "SPO-005", "product_name": "Yoga Wheel", "category": "Sports & Fitness", "price": 707.32, "timestamp": 1782330005}
+{"type": "ADD_TO_CART", "user_id": "USR-0193", "product_id": "FAS-022", "product_name": "Midi Dress", "category": "Fashion", "price": 350.26, "timestamp": 1782330005}
+{"type": "ADD_TO_CART", "user_id": "USR-0158", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330005}
+{"type": "ADD_TO_CART", "user_id": "USR-0182", "product_id": "ELE-016", "product_name": "Tablet 10in", "category": "Electronics", "price": 441.75, "timestamp": 1782330005}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0409", "product_id": "ELE-036", "product_name": "4K Monitor", "category": "Electronics", "price": 1475.13, "timestamp": 1782330005}
+{"type": "ORDER_PLACED", "user_id": "USR-0265", "product_id": "ELE-014", "product_name": "Earbuds", "category": "Electronics", "price": 725.57, "timestamp": 1782330005}
+{"type": "SEARCH", "user_id": "USR-0121", "product_id": "HOM-034", "product_name": "Roller Shades", "category": "Home & Kitchen", "price": 1063.02, "timestamp": 1782330005}
+{"type": "ADD_TO_CART", "user_id": "USR-0207", "product_id": "BOO-045", "product_name": "Art History", "category": "Books", "price": 1010.8, "timestamp": 1782330005}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0039", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330005}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0331", "product_id": "ELE-031", "product_name": "Bluetooth Speaker", "category": "Electronics", "price": 276.33, "timestamp": 1782330005}
+{"type": "ORDER_PLACED", "user_id": "USR-0021", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330006}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0349", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330006}
+{"type": "ORDER_PLACED", "user_id": "USR-0181", "product_id": "FAS-035", "product_name": "Blue Light Glasses", "category": "Fashion", "price": 376.79, "timestamp": 1782330006}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0256", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330006}
+{"type": "ORDER_PLACED", "user_id": "USR-0243", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330006}
+{"type": "ORDER_PLACED", "user_id": "USR-0016", "product_id": "ELE-016", "product_name": "Tablet 10in", "category": "Electronics", "price": 441.75, "timestamp": 1782330006}
+{"type": "ORDER_PLACED", "user_id": "USR-0182", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330006}
+{"type": "ORDER_PLACED", "user_id": "USR-0040", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330006}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0189", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330006}
+{"type": "ORDER_PLACED", "user_id": "USR-0135", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330006}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0059", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330006}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0366", "product_id": "ELE-010", "product_name": "Foldable Phone", "category": "Electronics", "price": 514.08, "timestamp": 1782330006}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0436", "product_id": "ELE-013", "product_name": "Gaming Headset", "category": "Electronics", "price": 537.79, "timestamp": 1782330006}
+{"type": "ORDER_PLACED", "user_id": "USR-0107", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330006}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0291", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330006}
+{"type": "ORDER_PLACED", "user_id": "USR-0107", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330006}
+{"type": "ADD_TO_CART", "user_id": "USR-0367", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330006}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0167", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330006}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0209", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330006}
+{"type": "ADD_TO_CART", "user_id": "USR-0337", "product_id": "ELE-010", "product_name": "Foldable Phone", "category": "Electronics", "price": 514.08, "timestamp": 1782330006}
+{"type": "SEARCH", "user_id": "USR-0156", "product_id": "ELE-014", "product_name": "Earbuds", "category": "Electronics", "price": 725.57, "timestamp": 1782330007}
+{"type": "ORDER_PLACED", "user_id": "USR-0123", "product_id": "HOM-046", "product_name": "Aroma Diffuser", "category": "Home & Kitchen", "price": 1179.78, "timestamp": 1782330007}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0079", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330007}
+{"type": "ORDER_PLACED", "user_id": "USR-0197", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330007}
+{"type": "ADD_TO_CART", "user_id": "USR-0005", "product_id": "ELE-043", "product_name": "Gaming Mouse", "category": "Electronics", "price": 305.18, "timestamp": 1782330007}
+{"type": "ADD_TO_CART", "user_id": "USR-0453", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330007}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0287", "product_id": "ELE-011", "product_name": "Wireless Headphones", "category": "Electronics", "price": 953.94, "timestamp": 1782330007}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0030", "product_id": "ELE-010", "product_name": "Foldable Phone", "category": "Electronics", "price": 514.08, "timestamp": 1782330007}
+{"type": "ORDER_PLACED", "user_id": "USR-0138", "product_id": "ELE-008", "product_name": "Budget Phone", "category": "Electronics", "price": 184.87, "timestamp": 1782330007}
+{"type": "ORDER_PLACED", "user_id": "USR-0040", "product_id": "HOM-038", "product_name": "Stainless Pot", "category": "Home & Kitchen", "price": 58.84, "timestamp": 1782330007}
+{"type": "ORDER_PLACED", "user_id": "USR-0166", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330007}
+{"type": "ADD_TO_CART", "user_id": "USR-0071", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330007}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0156", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330007}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0074", "product_id": "ELE-011", "product_name": "Wireless Headphones", "category": "Electronics", "price": 953.94, "timestamp": 1782330007}
+{"type": "ADD_TO_CART", "user_id": "USR-0162", "product_id": "HOM-036", "product_name": "Non-Stick Pan", "category": "Home & Kitchen", "price": 372.42, "timestamp": 1782330007}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0475", "product_id": "FAS-046", "product_name": "Leather Belt", "category": "Fashion", "price": 1267.01, "timestamp": 1782330007}
+{"type": "SEARCH", "user_id": "USR-0192", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330007}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0155", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330007}
+{"type": "ADD_TO_CART", "user_id": "USR-0082", "product_id": "BEA-002", "product_name": "Night Cream", "category": "Beauty & Personal Care", "price": 617.02, "timestamp": 1782330007}
+{"type": "ORDER_PLACED", "user_id": "USR-0332", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330007}
+{"type": "ADD_TO_CART", "user_id": "USR-0145", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330008}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0226", "product_id": "ELE-044", "product_name": "Trackpad", "category": "Electronics", "price": 1157.26, "timestamp": 1782330008}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0212", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330008}
+{"type": "SEARCH", "user_id": "USR-0412", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330008}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0164", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782330008}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0078", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330008}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0250", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330008}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0291", "product_id": "ELE-039", "product_name": "Portable Monitor", "category": "Electronics", "price": 742.85, "timestamp": 1782330008}
+{"type": "ORDER_PLACED", "user_id": "USR-0134", "product_id": "ELE-015", "product_name": "Over-Ear Headphones", "category": "Electronics", "price": 73.0, "timestamp": 1782330008}
+{"type": "ORDER_PLACED", "user_id": "USR-0456", "product_id": "HOM-008", "product_name": "Pendant Light", "category": "Home & Kitchen", "price": 883.34, "timestamp": 1782330008}
+{"type": "ORDER_PLACED", "user_id": "USR-0001", "product_id": "ELE-013", "product_name": "Gaming Headset", "category": "Electronics", "price": 537.79, "timestamp": 1782330008}
+{"type": "ORDER_PLACED", "user_id": "USR-0455", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782330008}
+{"type": "RETURN", "user_id": "USR-0434", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330008}
+{"type": "ORDER_PLACED", "user_id": "USR-0105", "product_id": "ELE-050", "product_name": "Portable HDD", "category": "Electronics", "price": 368.21, "timestamp": 1782330008}
+{"type": "ADD_TO_CART", "user_id": "USR-0261", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330008}
+{"type": "ADD_TO_CART", "user_id": "USR-0159", "product_id": "GRO-014", "product_name": "Chocolate Gift Box", "category": "Groceries & Gourmet", "price": 408.68, "timestamp": 1782330008}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0461", "product_id": "ELE-011", "product_name": "Wireless Headphones", "category": "Electronics", "price": 953.94, "timestamp": 1782330008}
+{"type": "RETURN", "user_id": "USR-0402", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330008}
+{"type": "ORDER_PLACED", "user_id": "USR-0281", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782330008}
+{"type": "RETURN", "user_id": "USR-0317", "product_id": "ELE-046", "product_name": "WiFi Router", "category": "Electronics", "price": 1492.0, "timestamp": 1782330008}
+{"type": "ADD_TO_CART", "user_id": "USR-0385", "product_id": "ELE-007", "product_name": "Smartphone Pro", "category": "Electronics", "price": 1340.44, "timestamp": 1782330009}
+{"type": "ORDER_PLACED", "user_id": "USR-0117", "product_id": "ELE-010", "product_name": "Foldable Phone", "category": "Electronics", "price": 514.08, "timestamp": 1782330009}
+{"type": "ORDER_PLACED", "user_id": "USR-0287", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330009}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0022", "product_id": "ELE-009", "product_name": "Flagship Phone", "category": "Electronics", "price": 190.84, "timestamp": 1782330009}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0184", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330009}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0376", "product_id": "ELE-009", "product_name": "Flagship Phone", "category": "Electronics", "price": 190.84, "timestamp": 1782330009}
+{"type": "ADD_TO_CART", "user_id": "USR-0071", "product_id": "HOM-020", "product_name": "Electric Kettle", "category": "Home & Kitchen", "price": 1066.52, "timestamp": 1782330009}
+{"type": "ORDER_PLACED", "user_id": "USR-0461", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782330009}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0289", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330009}
+{"type": "ORDER_PLACED", "user_id": "USR-0499", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330009}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0442", "product_id": "ELE-011", "product_name": "Wireless Headphones", "category": "Electronics", "price": 953.94, "timestamp": 1782330009}
+{"type": "ADD_TO_CART", "user_id": "USR-0013", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330009}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0059", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330009}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0102", "product_id": "FAS-006", "product_name": "Leather Jacket", "category": "Fashion", "price": 783.19, "timestamp": 1782330009}
+{"type": "RETURN", "user_id": "USR-0379", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330009}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0470", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330009}
+{"type": "ORDER_PLACED", "user_id": "USR-0445", "product_id": "ELE-024", "product_name": "GPS Watch", "category": "Electronics", "price": 188.07, "timestamp": 1782330009}
+{"type": "ADD_TO_CART", "user_id": "USR-0078", "product_id": "ELE-012", "product_name": "Noise-Cancelling Headphones", "category": "Electronics", "price": 1427.35, "timestamp": 1782330009}
+{"type": "SEARCH", "user_id": "USR-0431", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330009}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0298", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330009}
+{"type": "ORDER_PLACED", "user_id": "USR-0025", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782330010}
+{"type": "ADD_TO_CART", "user_id": "USR-0439", "product_id": "ELE-012", "product_name": "Noise-Cancelling Headphones", "category": "Electronics", "price": 1427.35, "timestamp": 1782330010}
+{"type": "ORDER_PLACED", "user_id": "USR-0275", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330010}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0108", "product_id": "ELE-023", "product_name": "Fitness Band", "category": "Electronics", "price": 57.29, "timestamp": 1782330010}
+{"type": "ADD_TO_CART", "user_id": "USR-0465", "product_id": "ELE-012", "product_name": "Noise-Cancelling Headphones", "category": "Electronics", "price": 1427.35, "timestamp": 1782330010}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0374", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330010}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0162", "product_id": "ELE-011", "product_name": "Wireless Headphones", "category": "Electronics", "price": 953.94, "timestamp": 1782330010}
+{"type": "ORDER_PLACED", "user_id": "USR-0215", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330010}
+{"type": "RETURN", "user_id": "USR-0194", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330010}
+{"type": "ADD_TO_CART", "user_id": "USR-0130", "product_id": "HOM-004", "product_name": "Bean Bag", "category": "Home & Kitchen", "price": 1388.14, "timestamp": 1782330010}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0081", "product_id": "ELE-007", "product_name": "Smartphone Pro", "category": "Electronics", "price": 1340.44, "timestamp": 1782330010}
+{"type": "ADD_TO_CART", "user_id": "USR-0461", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330010}
+{"type": "ORDER_PLACED", "user_id": "USR-0060", "product_id": "ELE-016", "product_name": "Tablet 10in", "category": "Electronics", "price": 441.75, "timestamp": 1782330010}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0080", "product_id": "ELE-043", "product_name": "Gaming Mouse", "category": "Electronics", "price": 305.18, "timestamp": 1782330010}
+{"type": "ORDER_PLACED", "user_id": "USR-0322", "product_id": "ELE-045", "product_name": "USB Hub", "category": "Electronics", "price": 350.15, "timestamp": 1782330010}
+{"type": "ORDER_PLACED", "user_id": "USR-0205", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330010}
+{"type": "ADD_TO_CART", "user_id": "USR-0240", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330010}
+{"type": "SEARCH", "user_id": "USR-0416", "product_id": "BOO-012", "product_name": "Baking Cookbook", "category": "Books", "price": 1405.52, "timestamp": 1782330010}
+{"type": "ORDER_PLACED", "user_id": "USR-0171", "product_id": "FAS-046", "product_name": "Leather Belt", "category": "Fashion", "price": 1267.01, "timestamp": 1782330010}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0315", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330011}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0169", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330011}
+{"type": "ORDER_PLACED", "user_id": "USR-0486", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782330011}
+{"type": "RETURN", "user_id": "USR-0281", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330011}
+{"type": "ADD_TO_CART", "user_id": "USR-0032", "product_id": "OFF-032", "product_name": "Pen Holder Bamboo", "category": "Office & Stationery", "price": 853.17, "timestamp": 1782330011}
+{"type": "ADD_TO_CART", "user_id": "USR-0259", "product_id": "ELE-006", "product_name": "Smartphone X", "category": "Electronics", "price": 681.64, "timestamp": 1782330011}
+{"type": "ORDER_PLACED", "user_id": "USR-0172", "product_id": "HOM-006", "product_name": "Floor Lamp", "category": "Home & Kitchen", "price": 564.43, "timestamp": 1782330011}
+{"type": "ADD_TO_CART", "user_id": "USR-0087", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782330011}
+{"type": "ORDER_PLACED", "user_id": "USR-0350", "product_id": "ELE-022", "product_name": "Smartwatch Series 2", "category": "Electronics", "price": 732.48, "timestamp": 1782330011}
+{"type": "RETURN", "user_id": "USR-0362", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330011}
+{"type": "ADD_TO_CART", "user_id": "USR-0459", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330011}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0207", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330011}
+{"type": "ORDER_PLACED", "user_id": "USR-0294", "product_id": "HEA-027", "product_name": "Ice Pack Gel", "category": "Health & Wellness", "price": 565.58, "timestamp": 1782330011}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0255", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330011}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0198", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330011}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0499", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330011}
+{"type": "ORDER_PLACED", "user_id": "USR-0216", "product_id": "ELE-048", "product_name": "Network Switch", "category": "Electronics", "price": 47.98, "timestamp": 1782330011}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0332", "product_id": "ELE-013", "product_name": "Gaming Headset", "category": "Electronics", "price": 537.79, "timestamp": 1782330011}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0455", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330011}
+{"type": "ADD_TO_CART", "user_id": "USR-0269", "product_id": "BEA-010", "product_name": "AHA BHA Serum", "category": "Beauty & Personal Care", "price": 1058.29, "timestamp": 1782330011}
+{"type": "ORDER_PLACED", "user_id": "USR-0270", "product_id": "ELE-015", "product_name": "Over-Ear Headphones", "category": "Electronics", "price": 73.0, "timestamp": 1782330012}
+{"type": "ORDER_PLACED", "user_id": "USR-0050", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782330012}
+{"type": "ORDER_PLACED", "user_id": "USR-0165", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330012}
+{"type": "ORDER_PLACED", "user_id": "USR-0163", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330012}
+{"type": "RETURN", "user_id": "USR-0427", "product_id": "ELE-017", "product_name": "Tablet 12in", "category": "Electronics", "price": 656.28, "timestamp": 1782330012}
+{"type": "ORDER_PLACED", "user_id": "USR-0418", "product_id": "ELE-014", "product_name": "Earbuds", "category": "Electronics", "price": 725.57, "timestamp": 1782330012}
+{"type": "ADD_TO_CART", "user_id": "USR-0120", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330012}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0129", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330012}
+{"type": "ORDER_PLACED", "user_id": "USR-0266", "product_id": "ELE-027", "product_name": "Mirrorless Camera", "category": "Electronics", "price": 1005.45, "timestamp": 1782330012}
+{"type": "ORDER_PLACED", "user_id": "USR-0470", "product_id": "ELE-019", "product_name": "Kids Tablet", "category": "Electronics", "price": 95.08, "timestamp": 1782330012}
+{"type": "RETURN", "user_id": "USR-0351", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330012}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0207", "product_id": "ELE-007", "product_name": "Smartphone Pro", "category": "Electronics", "price": 1340.44, "timestamp": 1782330012}
+{"type": "ADD_TO_CART", "user_id": "USR-0065", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330012}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0061", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330012}
+{"type": "ORDER_PLACED", "user_id": "USR-0267", "product_id": "ELE-015", "product_name": "Over-Ear Headphones", "category": "Electronics", "price": 73.0, "timestamp": 1782330012}
+{"type": "ADD_TO_CART", "user_id": "USR-0373", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330012}
+{"type": "ORDER_PLACED", "user_id": "USR-0375", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330012}
+{"type": "ADD_TO_CART", "user_id": "USR-0286", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330012}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0226", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330012}
+{"type": "ADD_TO_CART", "user_id": "USR-0138", "product_id": "ELE-016", "product_name": "Tablet 10in", "category": "Electronics", "price": 441.75, "timestamp": 1782330012}
+{"type": "ADD_TO_CART", "user_id": "USR-0356", "product_id": "ELE-010", "product_name": "Foldable Phone", "category": "Electronics", "price": 514.08, "timestamp": 1782330013}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0277", "product_id": "ELE-043", "product_name": "Gaming Mouse", "category": "Electronics", "price": 305.18, "timestamp": 1782330013}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0020", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330013}
+{"type": "ADD_TO_CART", "user_id": "USR-0444", "product_id": "FAS-030", "product_name": "Crossbody Bag", "category": "Fashion", "price": 486.81, "timestamp": 1782330013}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0053", "product_id": "ELE-036", "product_name": "4K Monitor", "category": "Electronics", "price": 1475.13, "timestamp": 1782330013}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0130", "product_id": "FAS-046", "product_name": "Leather Belt", "category": "Fashion", "price": 1267.01, "timestamp": 1782330013}
+{"type": "ORDER_PLACED", "user_id": "USR-0148", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330013}
+{"type": "ADD_TO_CART", "user_id": "USR-0481", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330013}
+{"type": "ADD_TO_CART", "user_id": "USR-0375", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330013}
+{"type": "ADD_TO_CART", "user_id": "USR-0496", "product_id": "AUT-003", "product_name": "Rear Camera", "category": "Automotive", "price": 227.14, "timestamp": 1782330013}
+{"type": "ORDER_PLACED", "user_id": "USR-0407", "product_id": "HOM-004", "product_name": "Bean Bag", "category": "Home & Kitchen", "price": 1388.14, "timestamp": 1782330013}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0052", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330013}
+{"type": "ORDER_PLACED", "user_id": "USR-0483", "product_id": "ELE-012", "product_name": "Noise-Cancelling Headphones", "category": "Electronics", "price": 1427.35, "timestamp": 1782330013}
+{"type": "ORDER_PLACED", "user_id": "USR-0357", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330013}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0108", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330013}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0199", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330013}
+{"type": "ADD_TO_CART", "user_id": "USR-0263", "product_id": "ELE-034", "product_name": "Soundbar", "category": "Electronics", "price": 240.89, "timestamp": 1782330013}
+{"type": "ORDER_PLACED", "user_id": "USR-0190", "product_id": "BEA-029", "product_name": "Hair Mask", "category": "Beauty & Personal Care", "price": 59.42, "timestamp": 1782330013}
+{"type": "ORDER_PLACED", "user_id": "USR-0471", "product_id": "ELE-021", "product_name": "Smartwatch Series 1", "category": "Electronics", "price": 104.02, "timestamp": 1782330013}
+{"type": "ADD_TO_CART", "user_id": "USR-0436", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330013}
+{"type": "ORDER_PLACED", "user_id": "USR-0169", "product_id": "BEA-023", "product_name": "Concealer", "category": "Beauty & Personal Care", "price": 860.95, "timestamp": 1782330014}
+{"type": "SEARCH", "user_id": "USR-0422", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330014}
+{"type": "ORDER_PLACED", "user_id": "USR-0233", "product_id": "ELE-009", "product_name": "Flagship Phone", "category": "Electronics", "price": 190.84, "timestamp": 1782330014}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0084", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330014}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0262", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330014}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0290", "product_id": "FAS-047", "product_name": "Canvas Belt", "category": "Fashion", "price": 1359.37, "timestamp": 1782330014}
+{"type": "ADD_TO_CART", "user_id": "USR-0210", "product_id": "ELE-050", "product_name": "Portable HDD", "category": "Electronics", "price": 368.21, "timestamp": 1782330014}
+{"type": "ORDER_PLACED", "user_id": "USR-0403", "product_id": "FAS-045", "product_name": "Sweatshirt", "category": "Fashion", "price": 21.34, "timestamp": 1782330014}
+{"type": "ADD_TO_CART", "user_id": "USR-0191", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330014}
+{"type": "ORDER_PLACED", "user_id": "USR-0096", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330014}
+{"type": "ADD_TO_CART", "user_id": "USR-0420", "product_id": "ELE-020", "product_name": "E-Reader", "category": "Electronics", "price": 801.38, "timestamp": 1782330014}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0006", "product_id": "ELE-049", "product_name": "External SSD", "category": "Electronics", "price": 324.68, "timestamp": 1782330014}
+{"type": "ORDER_PLACED", "user_id": "USR-0404", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330014}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0216", "product_id": "ELE-013", "product_name": "Gaming Headset", "category": "Electronics", "price": 537.79, "timestamp": 1782330014}
+{"type": "RETURN", "user_id": "USR-0150", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330014}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0351", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782330014}
+{"type": "ADD_TO_CART", "user_id": "USR-0046", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782330014}
+{"type": "ORDER_PLACED", "user_id": "USR-0069", "product_id": "ELE-008", "product_name": "Budget Phone", "category": "Electronics", "price": 184.87, "timestamp": 1782330014}
+{"type": "ADD_TO_CART", "user_id": "USR-0282", "product_id": "GRO-041", "product_name": "Hot Sauce", "category": "Groceries & Gourmet", "price": 838.05, "timestamp": 1782330014}
+{"type": "RETURN", "user_id": "USR-0011", "product_id": "BAB-050", "product_name": "Mittens Set", "category": "Baby & Kids", "price": 238.22, "timestamp": 1782330014}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0288", "product_id": "TOY-006", "product_name": "Action Figure Hero", "category": "Toys & Games", "price": 658.99, "timestamp": 1782330015}
+{"type": "ORDER_PLACED", "user_id": "USR-0384", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782330015}
+{"type": "RETURN", "user_id": "USR-0311", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330015}
+{"type": "ORDER_PLACED", "user_id": "USR-0185", "product_id": "ELE-015", "product_name": "Over-Ear Headphones", "category": "Electronics", "price": 73.0, "timestamp": 1782330015}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0103", "product_id": "FAS-027", "product_name": "Leather Handbag", "category": "Fashion", "price": 1491.58, "timestamp": 1782330015}
+{"type": "ADD_TO_CART", "user_id": "USR-0060", "product_id": "BOO-002", "product_name": "Romance Novel", "category": "Books", "price": 1194.07, "timestamp": 1782330015}
+{"type": "ORDER_PLACED", "user_id": "USR-0341", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330015}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0201", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330015}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0448", "product_id": "ELE-032", "product_name": "Smart Speaker", "category": "Electronics", "price": 184.83, "timestamp": 1782330015}
+{"type": "ADD_TO_CART", "user_id": "USR-0136", "product_id": "BEA-023", "product_name": "Concealer", "category": "Beauty & Personal Care", "price": 860.95, "timestamp": 1782330015}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0097", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330015}
+{"type": "ORDER_PLACED", "user_id": "USR-0416", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330015}
+{"type": "ADD_TO_CART", "user_id": "USR-0430", "product_id": "ELE-029", "product_name": "Instant Camera", "category": "Electronics", "price": 1464.58, "timestamp": 1782330015}
+{"type": "ADD_TO_CART", "user_id": "USR-0074", "product_id": "FAS-023", "product_name": "Maxi Dress", "category": "Fashion", "price": 831.63, "timestamp": 1782330015}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0454", "product_id": "GRO-037", "product_name": "Chia Seeds", "category": "Groceries & Gourmet", "price": 450.16, "timestamp": 1782330015}
+{"type": "ORDER_PLACED", "user_id": "USR-0417", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330015}
+{"type": "SEARCH", "user_id": "USR-0466", "product_id": "FAS-009", "product_name": "Puffer Jacket", "category": "Fashion", "price": 1132.2, "timestamp": 1782330015}
+{"type": "ADD_TO_CART", "user_id": "USR-0063", "product_id": "HOM-005", "product_name": "Futon", "category": "Home & Kitchen", "price": 567.07, "timestamp": 1782330015}
+{"type": "ORDER_PLACED", "user_id": "USR-0026", "product_id": "FAS-002", "product_name": "Casual Sneakers", "category": "Fashion", "price": 29.88, "timestamp": 1782330015}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0068", "product_id": "ELE-016", "product_name": "Tablet 10in", "category": "Electronics", "price": 441.75, "timestamp": 1782330015}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0417", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330016}
+{"type": "ORDER_PLACED", "user_id": "USR-0355", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330016}
+{"type": "ORDER_PLACED", "user_id": "USR-0152", "product_id": "FAS-002", "product_name": "Casual Sneakers", "category": "Fashion", "price": 29.88, "timestamp": 1782330016}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0111", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330016}
+{"type": "ORDER_PLACED", "user_id": "USR-0408", "product_id": "FAS-014", "product_name": "Chinos", "category": "Fashion", "price": 338.37, "timestamp": 1782330016}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0404", "product_id": "ELE-007", "product_name": "Smartphone Pro", "category": "Electronics", "price": 1340.44, "timestamp": 1782330016}
+{"type": "ADD_TO_CART", "user_id": "USR-0259", "product_id": "BEA-012", "product_name": "Lipstick Glossy", "category": "Beauty & Personal Care", "price": 738.18, "timestamp": 1782330016}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0428", "product_id": "FAS-012", "product_name": "Straight Jeans", "category": "Fashion", "price": 571.29, "timestamp": 1782330016}
+{"type": "ORDER_PLACED", "user_id": "USR-0408", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330016}
+{"type": "ADD_TO_CART", "user_id": "USR-0124", "product_id": "ELE-009", "product_name": "Flagship Phone", "category": "Electronics", "price": 190.84, "timestamp": 1782330016}
+{"type": "RETURN", "user_id": "USR-0095", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330016}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0187", "product_id": "FAS-027", "product_name": "Leather Handbag", "category": "Fashion", "price": 1491.58, "timestamp": 1782330016}
+{"type": "ORDER_PLACED", "user_id": "USR-0205", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330016}
+{"type": "ORDER_PLACED", "user_id": "USR-0049", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330016}
+{"type": "ADD_TO_CART", "user_id": "USR-0223", "product_id": "FAS-026", "product_name": "Tote Bag", "category": "Fashion", "price": 931.95, "timestamp": 1782330016}
+{"type": "RETURN", "user_id": "USR-0023", "product_id": "TOY-007", "product_name": "Action Figure Villain", "category": "Toys & Games", "price": 388.2, "timestamp": 1782330016}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0049", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330016}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0370", "product_id": "BOO-011", "product_name": "Vegetarian Cookbook", "category": "Books", "price": 1308.31, "timestamp": 1782330016}
+{"type": "ADD_TO_CART", "user_id": "USR-0232", "product_id": "ELE-006", "product_name": "Smartphone X", "category": "Electronics", "price": 681.64, "timestamp": 1782330016}
+{"type": "ADD_TO_CART", "user_id": "USR-0468", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330016}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0466", "product_id": "BOO-015", "product_name": "World Cuisine Cookbook", "category": "Books", "price": 558.61, "timestamp": 1782330017}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0380", "product_id": "ELE-007", "product_name": "Smartphone Pro", "category": "Electronics", "price": 1340.44, "timestamp": 1782330017}
+{"type": "ORDER_PLACED", "user_id": "USR-0101", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782330017}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0340", "product_id": "BOO-017", "product_name": "Sports Biography", "category": "Books", "price": 626.83, "timestamp": 1782330017}
+{"type": "ORDER_PLACED", "user_id": "USR-0131", "product_id": "GRO-019", "product_name": "Matcha Powder", "category": "Groceries & Gourmet", "price": 325.0, "timestamp": 1782330017}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0444", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330017}
+{"type": "ADD_TO_CART", "user_id": "USR-0161", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330017}
+{"type": "ADD_TO_CART", "user_id": "USR-0411", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330017}
+{"type": "ADD_TO_CART", "user_id": "USR-0256", "product_id": "ELE-011", "product_name": "Wireless Headphones", "category": "Electronics", "price": 953.94, "timestamp": 1782330017}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0224", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330017}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0497", "product_id": "HOM-015", "product_name": "Juicer", "category": "Home & Kitchen", "price": 997.18, "timestamp": 1782330017}
+{"type": "ADD_TO_CART", "user_id": "USR-0053", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330017}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0413", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330017}
+{"type": "ADD_TO_CART", "user_id": "USR-0497", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330017}
+{"type": "ADD_TO_CART", "user_id": "USR-0486", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330017}
+{"type": "ORDER_PLACED", "user_id": "USR-0071", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330017}
+{"type": "ADD_TO_CART", "user_id": "USR-0094", "product_id": "GRO-029", "product_name": "Agave Syrup", "category": "Groceries & Gourmet", "price": 1427.86, "timestamp": 1782330017}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0009", "product_id": "ELE-012", "product_name": "Noise-Cancelling Headphones", "category": "Electronics", "price": 1427.35, "timestamp": 1782330017}
+{"type": "ADD_TO_CART", "user_id": "USR-0454", "product_id": "ELE-018", "product_name": "Drawing Tablet", "category": "Electronics", "price": 1486.43, "timestamp": 1782330017}
+{"type": "ADD_TO_CART", "user_id": "USR-0043", "product_id": "ELE-036", "product_name": "4K Monitor", "category": "Electronics", "price": 1475.13, "timestamp": 1782330017}
+{"type": "ORDER_PLACED", "user_id": "USR-0283", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330018}
+{"type": "ADD_TO_CART", "user_id": "USR-0053", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330018}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0353", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330018}
+{"type": "ORDER_PLACED", "user_id": "USR-0287", "product_id": "FAS-021", "product_name": "Floral Dress", "category": "Fashion", "price": 801.13, "timestamp": 1782330018}
+{"type": "ADD_TO_CART", "user_id": "USR-0475", "product_id": "BAB-015", "product_name": "Baby Hammock", "category": "Baby & Kids", "price": 1212.07, "timestamp": 1782330018}
+{"type": "ORDER_PLACED", "user_id": "USR-0009", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330018}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0493", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330018}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0285", "product_id": "ELE-008", "product_name": "Budget Phone", "category": "Electronics", "price": 184.87, "timestamp": 1782330018}
+{"type": "ADD_TO_CART", "user_id": "USR-0100", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330018}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0124", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330018}
+{"type": "ORDER_PLACED", "user_id": "USR-0002", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330018}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0016", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330018}
+{"type": "ADD_TO_CART", "user_id": "USR-0494", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330018}
+{"type": "ORDER_PLACED", "user_id": "USR-0429", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330018}
+{"type": "ORDER_PLACED", "user_id": "USR-0082", "product_id": "ELE-028", "product_name": "Action Camera", "category": "Electronics", "price": 1010.77, "timestamp": 1782330018}
+{"type": "ADD_TO_CART", "user_id": "USR-0462", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330018}
+{"type": "ORDER_PLACED", "user_id": "USR-0170", "product_id": "HEA-037", "product_name": "Acupressure Mat", "category": "Health & Wellness", "price": 583.44, "timestamp": 1782330018}
+{"type": "SEARCH", "user_id": "USR-0071", "product_id": "ELE-014", "product_name": "Earbuds", "category": "Electronics", "price": 725.57, "timestamp": 1782330018}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0122", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330018}
+{"type": "ADD_TO_CART", "user_id": "USR-0373", "product_id": "ELE-018", "product_name": "Drawing Tablet", "category": "Electronics", "price": 1486.43, "timestamp": 1782330018}
+{"type": "ORDER_PLACED", "user_id": "USR-0330", "product_id": "HOM-046", "product_name": "Aroma Diffuser", "category": "Home & Kitchen", "price": 1179.78, "timestamp": 1782330019}
+{"type": "ADD_TO_CART", "user_id": "USR-0248", "product_id": "ELE-008", "product_name": "Budget Phone", "category": "Electronics", "price": 184.87, "timestamp": 1782330019}
+{"type": "ADD_TO_CART", "user_id": "USR-0337", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330019}
+{"type": "SEARCH", "user_id": "USR-0166", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330019}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0333", "product_id": "SPO-013", "product_name": "Track Spikes", "category": "Sports & Fitness", "price": 758.44, "timestamp": 1782330019}
+{"type": "ADD_TO_CART", "user_id": "USR-0131", "product_id": "HOM-007", "product_name": "Table Lamp", "category": "Home & Kitchen", "price": 983.08, "timestamp": 1782330019}
+{"type": "ORDER_PLACED", "user_id": "USR-0249", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782330019}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0475", "product_id": "BOO-047", "product_name": "Short Stories", "category": "Books", "price": 47.4, "timestamp": 1782330019}
+{"type": "ORDER_PLACED", "user_id": "USR-0252", "product_id": "ELE-017", "product_name": "Tablet 12in", "category": "Electronics", "price": 656.28, "timestamp": 1782330019}
+{"type": "ORDER_PLACED", "user_id": "USR-0392", "product_id": "HEA-020", "product_name": "Ashwagandha", "category": "Health & Wellness", "price": 1006.78, "timestamp": 1782330019}
+{"type": "ADD_TO_CART", "user_id": "USR-0360", "product_id": "FAS-039", "product_name": "Luxury Watch", "category": "Fashion", "price": 695.59, "timestamp": 1782330019}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0171", "product_id": "ELE-020", "product_name": "E-Reader", "category": "Electronics", "price": 801.38, "timestamp": 1782330019}
+{"type": "ADD_TO_CART", "user_id": "USR-0080", "product_id": "ELE-021", "product_name": "Smartwatch Series 1", "category": "Electronics", "price": 104.02, "timestamp": 1782330019}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0280", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330019}
+{"type": "ORDER_PLACED", "user_id": "USR-0332", "product_id": "FAS-008", "product_name": "Bomber Jacket", "category": "Fashion", "price": 737.34, "timestamp": 1782330019}
+{"type": "ORDER_PLACED", "user_id": "USR-0078", "product_id": "AUT-004", "product_name": "360 Dash Cam", "category": "Automotive", "price": 846.83, "timestamp": 1782330019}
+{"type": "ORDER_PLACED", "user_id": "USR-0159", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330019}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0267", "product_id": "HOM-049", "product_name": "Photo Frame", "category": "Home & Kitchen", "price": 584.83, "timestamp": 1782330019}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0182", "product_id": "ELE-009", "product_name": "Flagship Phone", "category": "Electronics", "price": 190.84, "timestamp": 1782330019}
+{"type": "ADD_TO_CART", "user_id": "USR-0100", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782330020}
+{"type": "ORDER_PLACED", "user_id": "USR-0265", "product_id": "ELE-013", "product_name": "Gaming Headset", "category": "Electronics", "price": 537.79, "timestamp": 1782330020}
+{"type": "ADD_TO_CART", "user_id": "USR-0010", "product_id": "ELE-007", "product_name": "Smartphone Pro", "category": "Electronics", "price": 1340.44, "timestamp": 1782330020}
+{"type": "ORDER_PLACED", "user_id": "USR-0017", "product_id": "ELE-035", "product_name": "Home Theatre", "category": "Electronics", "price": 228.59, "timestamp": 1782330020}
+{"type": "ORDER_PLACED", "user_id": "USR-0288", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330020}
+{"type": "ADD_TO_CART", "user_id": "USR-0213", "product_id": "ELE-030", "product_name": "Webcam", "category": "Electronics", "price": 1132.12, "timestamp": 1782330020}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0489", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330020}
+{"type": "ADD_TO_CART", "user_id": "USR-0217", "product_id": "ELE-008", "product_name": "Budget Phone", "category": "Electronics", "price": 184.87, "timestamp": 1782330020}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0266", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330020}
+{"type": "ADD_TO_CART", "user_id": "USR-0042", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782330020}
+{"type": "SEARCH", "user_id": "USR-0054", "product_id": "ELE-005", "product_name": "Chromebook", "category": "Electronics", "price": 1469.3, "timestamp": 1782330020}
+{"type": "ADD_TO_CART", "user_id": "USR-0461", "product_id": "FAS-010", "product_name": "Raincoat", "category": "Fashion", "price": 493.38, "timestamp": 1782330020}
+{"type": "ORDER_PLACED", "user_id": "USR-0083", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330020}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0315", "product_id": "HOM-005", "product_name": "Futon", "category": "Home & Kitchen", "price": 567.07, "timestamp": 1782330020}
+{"type": "ORDER_PLACED", "user_id": "USR-0240", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330020}
+{"type": "ORDER_PLACED", "user_id": "USR-0488", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330020}
+{"type": "ADD_TO_CART", "user_id": "USR-0197", "product_id": "BAB-010", "product_name": "Baby Carrier Wrap", "category": "Baby & Kids", "price": 745.46, "timestamp": 1782330020}
+{"type": "ADD_TO_CART", "user_id": "USR-0202", "product_id": "BAB-028", "product_name": "Baby Lotion", "category": "Baby & Kids", "price": 1293.56, "timestamp": 1782330020}
+{"type": "ADD_TO_CART", "user_id": "USR-0462", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330020}
+{"type": "ADD_TO_CART", "user_id": "USR-0021", "product_id": "ELE-029", "product_name": "Instant Camera", "category": "Electronics", "price": 1464.58, "timestamp": 1782330020}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0042", "product_id": "FAS-048", "product_name": "Silk Scarf", "category": "Fashion", "price": 935.52, "timestamp": 1782330021}
+{"type": "ADD_TO_CART", "user_id": "USR-0154", "product_id": "ELE-014", "product_name": "Earbuds", "category": "Electronics", "price": 725.57, "timestamp": 1782330021}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0059", "product_id": "ELE-039", "product_name": "Portable Monitor", "category": "Electronics", "price": 742.85, "timestamp": 1782330021}
+{"type": "ADD_TO_CART", "user_id": "USR-0136", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330021}
+{"type": "ORDER_PLACED", "user_id": "USR-0236", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330021}
+{"type": "ORDER_PLACED", "user_id": "USR-0272", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330021}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0472", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330021}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0300", "product_id": "FAS-050", "product_name": "Gloves", "category": "Fashion", "price": 715.55, "timestamp": 1782330021}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0340", "product_id": "ELE-026", "product_name": "DSLR Camera", "category": "Electronics", "price": 1375.76, "timestamp": 1782330021}
+{"type": "ADD_TO_CART", "user_id": "USR-0484", "product_id": "BEA-004", "product_name": "Sunscreen SPF50", "category": "Beauty & Personal Care", "price": 464.78, "timestamp": 1782330021}
+{"type": "ADD_TO_CART", "user_id": "USR-0468", "product_id": "ELE-046", "product_name": "WiFi Router", "category": "Electronics", "price": 1492.0, "timestamp": 1782330021}
+{"type": "ADD_TO_CART", "user_id": "USR-0387", "product_id": "ELE-045", "product_name": "USB Hub", "category": "Electronics", "price": 350.15, "timestamp": 1782330021}
+{"type": "SEARCH", "user_id": "USR-0200", "product_id": "FAS-006", "product_name": "Leather Jacket", "category": "Fashion", "price": 783.19, "timestamp": 1782330021}
+{"type": "ADD_TO_CART", "user_id": "USR-0085", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330021}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0419", "product_id": "ELE-011", "product_name": "Wireless Headphones", "category": "Electronics", "price": 953.94, "timestamp": 1782330021}
+{"type": "ORDER_PLACED", "user_id": "USR-0370", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330021}
+{"type": "ADD_TO_CART", "user_id": "USR-0317", "product_id": "OFF-007", "product_name": "Gel Pens 12pk", "category": "Office & Stationery", "price": 946.9, "timestamp": 1782330021}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0319", "product_id": "HOM-032", "product_name": "Sheer Curtains", "category": "Home & Kitchen", "price": 585.76, "timestamp": 1782330021}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0396", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330021}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0443", "product_id": "ELE-004", "product_name": "Ultrabook", "category": "Electronics", "price": 1142.15, "timestamp": 1782330021}
+{"type": "ADD_TO_CART", "user_id": "USR-0082", "product_id": "ELE-010", "product_name": "Foldable Phone", "category": "Electronics", "price": 514.08, "timestamp": 1782330022}
+{"type": "SEARCH", "user_id": "USR-0179", "product_id": "ELE-003", "product_name": "Gaming Laptop", "category": "Electronics", "price": 261.32, "timestamp": 1782330022}
+{"type": "ORDER_PLACED", "user_id": "USR-0480", "product_id": "ELE-021", "product_name": "Smartwatch Series 1", "category": "Electronics", "price": 104.02, "timestamp": 1782330022}
+{"type": "ORDER_PLACED", "user_id": "USR-0469", "product_id": "HOM-023", "product_name": "Handheld Vacuum", "category": "Home & Kitchen", "price": 270.1, "timestamp": 1782330022}
+{"type": "ADD_TO_CART", "user_id": "USR-0071", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330022}
+{"type": "PRODUCT_VIEW", "user_id": "USR-0072", "product_id": "FAS-024", "product_name": "Wrap Dress", "category": "Fashion", "price": 848.18, "timestamp": 1782330022}
+{"type": "ORDER_PLACED", "user_id": "USR-0398", "product_id": "ELE-002", "product_name": "Laptop Air", "category": "Electronics", "price": 361.12, "timestamp": 1782330022}
+{"type": "ORDER_PLACED", "user_id": "USR-0153", "product_id": "ELE-001", "product_name": "Laptop Pro", "category": "Electronics", "price": 83.71, "timestamp": 1782330022}
